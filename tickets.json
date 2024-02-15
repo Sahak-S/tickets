@@ -1,0 +1,25 @@
+{
+  "flights": [
+    {
+      "carrier": "Aeroflot",
+      "departureCity": "Владивосток",
+      "arrivalCity": "Тель-Авив",
+      "flightTime": 8,
+      "price": 500
+    },
+    {
+      "carrier": "British Airways",
+      "departureCity": "Владивосток",
+      "arrivalCity": "Тель-Авив",
+      "flightTime": 9,
+      "price": 600
+    },
+    {
+      "carrier": "Lufthansa",
+      "departureCity": "Владивосток",
+      "arrivalCity": "Тель-Авив",
+      "flightTime": 7,
+      "price": 550
+    }
+  ]
+}
